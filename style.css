@@ -1,0 +1,34 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: Old Bookman;
+  color: #640d6b;
+  text-align: center;
+  text-decoration: 1.5px azure double line-through;
+  font-style: oblique;
+  font-weight: 600;
+}
+
+.card {
+  width: 70%;
+  margin: auto;
+  background-color: #f8d082;
+}
+
+.card-title {
+  font: 1.5em Georgia, serif;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: #fc0 1px 0 10px;
+  background-color: #1b1b1b;
+}
+
+.card-text {
+  color: #d76227;
+  font-family: Century;
+  font-size: 2rem;
+  font-style: oblique;
+  font-weight: 600;
+}
