@@ -27,6 +27,7 @@ dogBtn.addEventListener("click", async () => {
   dogCard.append(dogImg);
   dogImg.classList.add("card-img-top");
   dogImg.src = link;
+  dogImg.style.height = "80rem";
 });
 
 async function getImgLink(url) {
